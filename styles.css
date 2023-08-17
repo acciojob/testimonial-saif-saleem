@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+#container{
+	background-color:#f5f5f5;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:30px;
+	padding-bottom:20px
+}
+#con1{
+	background-color:white;
+	padding:5px;
+	margin-bottom:20px;
+	border:0.5px solid grey;
+}
+#con2{
+	background-color:white;
+	padding:5px;
+	padding-top:px;
+	border:0.5px solid grey;
+}
+#p1{
+	 text-align: right;
+	font-style:italic;
+}
